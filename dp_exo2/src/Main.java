@@ -17,6 +17,7 @@ public class Main {
     listerMots.imprimerSiStrategy(new PalindromeStrategy());
     System.out.println("🟨StartWithStrategy('k')");
     listerMots.imprimerSiStrategy(new StartWithStrategy('k'));
+
   }
 }
 // TODO 23-09-24 : faire le dp2 2.2
