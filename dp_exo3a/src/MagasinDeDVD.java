@@ -1,14 +1,9 @@
-import java.util.HashMap;
-import java.util.Map;
 
+public class MagasinDeDVD extends Magasin {
 
-public class MagasinDeDVD {
-	private Map<String,DVD> bac= new HashMap<String,DVD>();
-	public void ajouterDVD(String name, int anneeDeParution){
-		DVD dvd=new DVD(name, anneeDeParution);
-		bac.put(name,dvd);
-	}
-	public DVD retourneDVD(String name){
-		return bac.get(name);
-	}
+  @Override
+  public Produit creerProduit(String name, int anneeDeParution) {
+    System.out.println("📀 Création d'un DVD: " + name + " (" + anneeDeParution + ")");
+    return new DVD(name, anneeDeParution);
+  }
 }
