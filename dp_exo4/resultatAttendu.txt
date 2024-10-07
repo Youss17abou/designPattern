@@ -1,0 +1,18 @@
+Vous n'avez pas introduit un montant suffisant pour un Café décaféiné
+Il manque encore 50 cents
+50 cents disponibles
+Voici un Café décaféiné
+0 cents disponibles
+20 cents disponibles
+Vous n'avez pas introduit un montant suffisant pour un Chocolat chaud au lait sucré
+Il manque encore 90 cents
+Tûût
+70 cents disponibles
+Vous n'avez pas introduit un montant suffisant pour un Chocolat chaud au lait sucré
+Il manque encore 40 cents
+120 cents disponibles
+Voici un Chocolat chaud au lait sucré
+10 cents disponibles
+10 cents rendus
+
+Process finished with exit code 0
